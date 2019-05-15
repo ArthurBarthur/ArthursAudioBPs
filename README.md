@@ -16,6 +16,8 @@ Made with UE 4.22.1
 - V2 overview-video: https://youtu.be/qKjixcet44c
 - V1 overview-video: https://youtu.be/BU9F41Kc2F4
 
+# Zip downloads: 
+https://drive.google.com/drive/folders/1qSKPeI24RbAg89Koz0v-XikVPo8FG7Wp
 
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651-arthurbarthurs-s-fancy-audio-blueprints
