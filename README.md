@@ -3,7 +3,7 @@
 A free downloadable project full of cool audio blueprints. Yes, it's true!
 Made with UE 4.22.1
 
-# Currently has
+# Features
 - visualization with single sound envelope followers
 - submix FFT frequency analyzers and visualizers
 - granular synthesis based door-hinges
