@@ -5,9 +5,9 @@ Made with UE 4.22.1
 
 # Features
 - (NEW in V4)ModSynth Preset Randomizer
-- (NEW in V4)Spatial music-triggers
+- (NEW in V4)Spatial music examples
 - Mic/Input capture
-- Modular Synth
+- Modular Synth examples
 - visualization with single sound envelope followers
 - submix FFT frequency analyzers and visualizers
 - granular synthesis based door-hinges
