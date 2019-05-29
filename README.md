@@ -1,7 +1,7 @@
 # ArthursFancyAudioBPs
 
-A free downloadable project full of cool audio blueprints. Yes, it's true!
-Made with UE 4.22.1
+A free downloadable project full of cool audio blueprints.
+Made with UE 4.22.2
 
 # Features
 - (NEW)Midi input/output
