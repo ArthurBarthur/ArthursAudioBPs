@@ -4,8 +4,10 @@ A free downloadable project full of cool audio blueprints. Yes, it's true!
 Made with UE 4.22.1
 
 # Features
-- (NEW in V4)ModSynth Preset Randomizer
-- (NEW in V4)Spatial music examples
+- (NEW)Midi input/output
+- (NEW)Spatial propagation example
+- ModSynth Preset Randomizer
+- Spatial music examples
 - Mic/Input capture
 - Modular Synth examples
 - visualization with single sound envelope followers
@@ -17,6 +19,7 @@ Made with UE 4.22.1
 
 # Overview:
 
+- V5 overview-video: https://youtu.be/WhmYe1YWUJA
 - V4 overview-video: https://youtu.be/Ou3-9_WI3Uw
 - V3 overview-video: https://youtu.be/-itUVTOB8as
 - V2 overview-video: https://youtu.be/qKjixcet44c
