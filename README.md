@@ -1,15 +1,17 @@
 # Arthurs Audio BPs
 
-A free downloadable project full of cool audio blueprints.
-Made with UE 4.22.2
+A free, downloadable project full of next-gen audio blueprints.
+Made with UE 4.22.3
 
 # Features
-- (NEW)Midi input/output
-- (NEW)Spatial propagation example
+- (NEW in V6)Source effects(live modulation)
+- (NEW in V6)'NoteRunner' synth music based on physics and world-Z
+- Midi input/output
+- Spatial propagation
 - ModSynth Preset Randomizer
-- Spatial music examples
+- Spatial music
 - Mic/Input capture
-- Modular Synth examples
+- Modular Synth
 - visualization with single sound envelope followers
 - submix FFT frequency analyzers and visualizers
 - granular synthesis based door-hinges
@@ -19,6 +21,7 @@ Made with UE 4.22.2
 
 # Overview:
 
+- V6 overview-video: TBA
 - V5 overview-video: https://youtu.be/WhmYe1YWUJA
 - V4 overview-video: https://youtu.be/Ou3-9_WI3Uw
 - V3 overview-video: https://youtu.be/-itUVTOB8as
