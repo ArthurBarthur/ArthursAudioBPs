@@ -21,7 +21,7 @@ Made with UE 4.22.3
 
 # Overview:
 
-- V6 overview-video: TBA
+- V6 overview-video: https://youtu.be/DFUkmvU2N9c
 - V5 overview-video: https://youtu.be/WhmYe1YWUJA
 - V4 overview-video: https://youtu.be/Ou3-9_WI3Uw
 - V3 overview-video: https://youtu.be/-itUVTOB8as
