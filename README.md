@@ -1,11 +1,12 @@
 # Arthurs Audio BPs
 
 A free, downloadable project full of next-gen audio blueprints.
-Made with UE 4.22.3
+Made with UE 4.23.0
 
-# Features
-- (NEW in V6)Source effects(live modulation)
-- (NEW in V6)'NoteRunner' synth music based on physics and world-Z
+# Feature Examples
+- (NEW)Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
+- Source effects(user modulation while simulating)
+-'NoteRunner' synth music based on physics and world-Z
 - Midi input/output
 - Spatial propagation
 - ModSynth Preset Randomizer
