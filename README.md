@@ -9,7 +9,7 @@ https://discord.gg/dKAshs7
 # Included Feature Examples
 - (NEW in V007)Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
 - Source effects(user modulation while simulating)
--'NoteRunner' synth music based on physics and world-Z
+- NoteRunner; synth music based on physics and world-Z
 - Midi input/output
 - Spatial propagation
 - Modular Synth Preset Randomizer
