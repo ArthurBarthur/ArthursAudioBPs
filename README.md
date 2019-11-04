@@ -25,6 +25,7 @@ https://discord.gg/dKAshs7
 
 # Overview:
 
+- V7 overview-video: https://youtu.be/dtfeVrcapfQ
 - V6 overview-video: https://youtu.be/DFUkmvU2N9c
 - V5 overview-video: https://youtu.be/WhmYe1YWUJA
 - V4 overview-video: https://youtu.be/Ou3-9_WI3Uw
