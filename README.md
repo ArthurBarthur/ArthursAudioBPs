@@ -1,5 +1,6 @@
-# Arthurs Audio BPs
+ <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Hei på deg!" class="inline"/>
 
+# Arthurs Audio BPs
 A free, downloadable project full of next-gen audio blueprints.
 Made with UE 4.23.0
 
