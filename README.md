@@ -1,14 +1,18 @@
- <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Hei på deg!" class="inline"/>
+ <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Yo!" class="inline"/>
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio blueprints.
-Made with UE 4.23.0
+Made with UE 4.24.1
 
 # Chat/Discord:
 https://discord.gg/dKAshs7 
 
 # Included Feature Examples
-- (NEW in V007)Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
+
+- (NEW in V8)Synesthesia plugin showcases
+- (NEW in V8)Modulation plugin showcase
+- (NEW in V8)A more musical Rollplate-example added
+- Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
 - Source effects(user modulation while simulating)
 - NoteRunner; synth music based on physics and world-Z
 - Midi input/output
@@ -26,6 +30,7 @@ https://discord.gg/dKAshs7
 
 # Overview:
 
+- V8 overview-video: COMING SOON!
 - V7 overview-video: https://youtu.be/dtfeVrcapfQ
 - V6 overview-video: https://youtu.be/DFUkmvU2N9c
 - V5 overview-video: https://youtu.be/WhmYe1YWUJA
