@@ -9,9 +9,9 @@ https://discord.gg/dKAshs7
 
 # Included Feature Examples
 
-- (NEW in V8)Synesthesia plugin showcases
-- (NEW in V8)Modulation plugin showcase
-- (NEW in V8)A more musical Rollplate-example added
+- (NEW in V8) Synesthesia plugin examples
+- (NEW in V8) Modulation plugin example
+- (NEW in V8) More musical Rollplate-examples added
 - Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
 - Source effects(user modulation while simulating)
 - NoteRunner; synth music based on physics and world-Z
