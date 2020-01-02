@@ -30,7 +30,7 @@ https://discord.gg/dKAshs7
 
 # Overview:
 
-- V8 overview-video: COMING SOON!
+- V8 overview-video: https://youtu.be/8XcHyu8yTN0
 - V7 overview-video: https://youtu.be/dtfeVrcapfQ
 - V6 overview-video: https://youtu.be/DFUkmvU2N9c
 - V5 overview-video: https://youtu.be/WhmYe1YWUJA
