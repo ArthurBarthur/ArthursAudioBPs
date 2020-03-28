@@ -5,6 +5,30 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
 			"Name": "Synthesis",
 			"Enabled": true
 		},
@@ -13,28 +37,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MIDIDevice",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioModulation",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioSynesthesia",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundCueTemplates",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundUtilities",
-			"Enabled": true
-		},
-		{
 			"Name": "SunPosition",
 			"Enabled": true
+		},
+		{
+			"Name": "Linter",
+			"Enabled": false
 		}
 	]
 }

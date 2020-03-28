@@ -2,16 +2,33 @@
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio blueprints.
-Made with Unreal Engine 4.24.1
+Made with Unreal Engine 4.24.3
 
 # Chat/Discord:
 https://discord.gg/dKAshs7 
 
-# Included Feature Examples
+# NEW Feature Examples in V9
 
-- (NEW in V8) Synesthesia plugin examples
-- (NEW in V8) Modulation plugin example
-- (NEW in V8) More musical Rollplate-examples added
+- Independent pitch and playback-speed control with granular player(thank you for HQ voice sample [Megagoth1702](https://forums.unrealengine.com/community/got-skills-looking-for-talent/looking-for-work/1710171))
+- SpringKeys, a physical, springy piano synthesizer instrument
+- Granular chord choir music instrument thing
+- Basic Modulation Plugin example
+- Spline-based variation on the frequency visualizers
+- Single frequency audio-visualizer boxes as standalone things
+- Crowd sim early alpha
+- Live Submix Effect-tweaker knob
+
+# Other V9 Improvements
+
+- Synesthesia Onset example got some more love
+- Fixed up color distribution stuff on various visualizers and things
+- Lots of little fixes and changes here, there, everywhere!
+
+
+# Pre-existing Feature Examples
+
+- Modulation plugin example
+- More musical Rollplate-examples added
 - Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
 - Source effects(user modulation while simulating)
 - NoteRunner; synth music based on physics and world-Z
@@ -28,8 +45,9 @@ https://discord.gg/dKAshs7
 - SourceBus, Submix and SourceEffect routing
 
 
-# Overview:
+# Overview videos for each release:
 
+- V9 overview-video: ON THE WAY
 - V8 overview-video: https://youtu.be/8XcHyu8yTN0
 - V7 overview-video: https://youtu.be/dtfeVrcapfQ
 - V6 overview-video: https://youtu.be/DFUkmvU2N9c
