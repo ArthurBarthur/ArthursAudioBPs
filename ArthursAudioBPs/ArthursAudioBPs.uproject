@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,23 +13,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SoundCueTemplates",
-			"Enabled": true
-		},
-		{
 			"Name": "MIDIDevice",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		},
-		{
-			"Name": "Synthesis",
 			"Enabled": true
 		},
 		{
@@ -39,10 +23,6 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
-		},
-		{
-			"Name": "Linter",
-			"Enabled": false
 		}
 	]
 }
