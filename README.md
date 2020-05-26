@@ -7,7 +7,20 @@ Made with Unreal Engine 4.24.3
 # Chat/Discord:
 https://discord.gg/dKAshs7 
 
-# NEW Feature Examples in V9
+# NEW Feature Examples in V9.6
+
+- Submix meters(simple volume visualizers for submixes)
+- Submix recording example(to soundwave or .wav)
+- 3 different audio capture examples(incl recording and visualizing mic without hearing ourselves)
+
+# Other V9.6 Improvements
+
+- NoteRunner level with truly super duper random sounds every time 
+- SpringKeys are performant now(they were auto-shutting off at 0 volume, causing stuttering. Now the oscs never hit 0 vol)
+- Submix tweaker should be better
+- hundreds of little things here and there
+
+# Pre-existing Feature Examples
 
 - Independent pitch and playback-speed control with granular player(thank you for HQ voice sample [Megagoth1702](https://forums.unrealengine.com/community/got-skills-looking-for-talent/looking-for-work/1710171))
 - SpringKeys, a physical, springy piano synthesizer instrument
@@ -17,16 +30,6 @@ https://discord.gg/dKAshs7
 - Single frequency audio-visualizer boxes as standalone things
 - Crowd sim early alpha
 - Live Submix Effect-tweaker knob
-
-# Other V9 Improvements
-
-- Synesthesia Onset example got some more love
-- Fixed up color distribution stuff on various visualizers and things
-- Lots of little fixes and changes here, there, everywhere!
-
-
-# Pre-existing Feature Examples
-
 - Modulation plugin example
 - More musical Rollplate-examples added
 - Rollplates; an evolution of the existing noteplates. Registers rolling objects as well, and uses physics for note velocity.
@@ -46,7 +49,7 @@ https://discord.gg/dKAshs7
 
 
 # Overview videos for each release:
-
+- V9.6 erview-video: errrr
 - V9 overview-video: ON THE WAY
 - V8 overview-video: https://youtu.be/8XcHyu8yTN0
 - V7 overview-video: https://youtu.be/dtfeVrcapfQ
