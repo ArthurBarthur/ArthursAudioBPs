@@ -1,8 +1,8 @@
  <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Yo!" class="inline"/>
 
 # Arthurs Audio BPs
-A free, downloadable project full of next-gen audio blueprints.
-Made with Unreal Engine 4.24.3
+A free, downloadable project full of next-gen audio & physics blueprints.
+Made with Unreal Engine 4.25
 
 # Chat/Discord:
 https://discord.gg/dKAshs7 
