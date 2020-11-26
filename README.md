@@ -7,6 +7,9 @@ Made with Unreal Engine 4.25
 # Chat/Discord:
 https://discord.gg/dKAshs7 
 
+# Discussion/more info: 
+https://forums.unrealengine.com/development-discussion/audio/1618651
+
 # NEW Feature Examples in V9.8
 
 - "Candy" Audio Visualizer
@@ -62,6 +65,3 @@ https://discord.gg/dKAshs7
 
 # Zip downloads: 
 https://drive.google.com/drive/folders/1qSKPeI24RbAg89Koz0v-XikVPo8FG7Wp
-
-# Discussion/more info: 
-https://forums.unrealengine.com/development-discussion/audio/1618651
