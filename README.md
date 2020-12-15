@@ -4,6 +4,12 @@
 A free, downloadable project full of next-gen audio & physics blueprints!!!
 Made with Unreal Engine 4.25.4
 
+# Contribute
+You can directly support me(and by extension, continued development on this thing) by naming any price for any of my 'games' here: https://diggart.itch.io/ or through Patreon: https://www.patreon.com/arthurbarthur
+
+# Zip downloads: 
+https://drive.google.com/drive/folders/1qSKPeI24RbAg89Koz0v-XikVPo8FG7Wp
+
 # Chat/Discord:
 https://discord.gg/dKAshs7 
 
@@ -64,5 +70,3 @@ Also make some Quartz-system examples, make music:)
 - V2 overview-video: https://youtu.be/qKjixcet44c
 - V1 overview-video: https://youtu.be/BU9F41Kc2F4
 
-# Zip downloads: 
-https://drive.google.com/drive/folders/1qSKPeI24RbAg89Koz0v-XikVPo8FG7Wp
