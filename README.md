@@ -1,8 +1,8 @@
  <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Yo!" class="inline"/>
 
 # Arthurs Audio BPs
-A free, downloadable project full of next-gen audio & physics blueprints.
-Made with Unreal Engine 4.25
+A free, downloadable project full of next-gen audio & physics blueprints!!!
+Made with Unreal Engine 4.25.4
 
 # Chat/Discord:
 https://discord.gg/dKAshs7 
@@ -10,16 +10,16 @@ https://discord.gg/dKAshs7
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651
 
-# NEW Feature Examples in V9.8
+# V0.9.9.9?????
+Yeah next is 1.0 right!? Will start finalizing and polishing a bit, update to 4.26, record some videos on everything like overviews and some deep dives. 
+Also make some Quartz-system examples, make music:)
 
-- "Candy" Audio Visualizer
+
+# Feature Examples
+
 - Huge hub-level with gamemode, doors to all levels, lots of silly BPs and more.
+- "Candy" Audio Visualizer
 - Jump-pads that trigger samples(audio)
-- 5-10 other smaller additions I forgot to write down
-
-
-# ALL Included Feature Examples
-
 - Submix meters(practical and simple in-world volume visualizers for submixes)
 - Submix recording example(to soundwave or .wav)
 - Independent pitch and playback-speed control with granular player(thank you for HQ voice sample [Megagoth1702](https://forums.unrealengine.com/community/got-skills-looking-for-talent/looking-for-work/1710171))
@@ -50,6 +50,7 @@ https://forums.unrealengine.com/development-discussion/audio/1618651
 
 
 # Overview videos for each release:
+- V9.9.9 erview-video: we got this far together..now truly it is close, getting ready to set things in stone and make lots of videos!!!
 - V9.8 erview-video: well OK now I'm saving up for a big v1.0 video..! Let me know if you need videos on anything specific before that:)
 - V9.6 erview-video: ehehehheh
 - V9.6 erview-video: errrr
