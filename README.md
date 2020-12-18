@@ -16,7 +16,7 @@ https://discord.gg/dKAshs7
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651
 
-# V0.9.9.9.6????
+# V0.9.9.9.7????
 4.26 edition of the infamous v0.9.9.9, with small improvements all over. 
 Some big improvements to candy visualizer and the synth-plants.
 
