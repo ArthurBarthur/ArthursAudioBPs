@@ -2,7 +2,7 @@
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio & physics blueprints!!!
-Made with Unreal Engine 4.25.4
+Made with Unreal Engine 4.26
 
 # Contribute
 You can directly support me(and by extension, continued development on this thing) by naming any price for any of my 'games' here: https://diggart.itch.io/ or through Patreon: https://www.patreon.com/arthurbarthur
@@ -16,10 +16,9 @@ https://discord.gg/dKAshs7
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651
 
-# V0.9.9.9?????
-Yeah next is 1.0 right!? Will start finalizing and polishing a bit, update to 4.26, record some videos on everything like overviews and some deep dives. 
-Also make some Quartz-system examples, make music:)
-
+# V0.9.9.9.6????
+4.26 edition of the infamous v0.9.9.9, with small improvements all over. 
+Some big improvements to candy visualizer and the synth-plants.
 
 # Feature Examples
 
