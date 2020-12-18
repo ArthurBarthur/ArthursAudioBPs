@@ -17,10 +17,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "TimeSynth",
-			"Enabled": true
-		},
-		{
 			"Name": "SunPosition",
 			"Enabled": true
 		}
