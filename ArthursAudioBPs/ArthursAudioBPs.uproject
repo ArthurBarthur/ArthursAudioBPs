@@ -13,11 +13,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MIDIDevice",
+			"Name": "SunPosition",
 			"Enabled": true
 		},
 		{
-			"Name": "SunPosition",
+			"Name": "ArthursAudioVisualToolkit",
 			"Enabled": true
 		}
 	]
