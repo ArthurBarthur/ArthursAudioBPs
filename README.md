@@ -8,7 +8,7 @@ Made with Unreal Engine 4.26
 You can directly support me(and by extension, continued development on this thing) by naming any price for any of my 'games' here: https://diggart.itch.io/ or through Patreon: https://www.patreon.com/arthurbarthur
 
 # Zip downloads: 
-https://drive.google.com/drive/folders/1qSKPeI24RbAg89Koz0v-XikVPo8FG7Wp
+http://bit.ly/2Ow025P
 
 # Chat/Discord:
 https://discord.gg/dKAshs7 
@@ -16,10 +16,9 @@ https://discord.gg/dKAshs7
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651
 
-# V0.9.9.9.7????
-4.26 edition of the infamous v0.9.9.9, with small improvements all over. 
-Some big improvements to candy visualizer and the synth-plants.
-
+# V1000
+Huge refactor this time! Finally made a plugin, Arthurs Audio-Visual Toolkit. All the nice stuff is in there now, separated from the rest of the project. Super portable when we just want the tools over on a different project, instead of including ALL the example levels and stuff in it! 
+The plugin should be on Unreal Marketplace soon, will update with link. For now this project works standalone no problem.
 # Feature Examples
 
 - Huge hub-level with gamemode, doors to all levels, lots of silly BPs and more.
@@ -55,17 +54,14 @@ Some big improvements to candy visualizer and the synth-plants.
 
 
 # Overview videos for each release:
+- V1000...: Everything is finally set in stone! For now lol. This means videos is the logical next step LETS GOOOO :)
+- V9.9.9.7: in the middle of the last transformation, so just a teaser now https://youtu.be/dq5x6IP1YWE
 - V9.9.9 erview-video: we got this far together..now truly it is close, getting ready to set things in stone and make lots of videos!!!
-- V9.8 erview-video: well OK now I'm saving up for a big v1.0 video..! Let me know if you need videos on anything specific before that:)
+- V9.8 erview-video: well OK now I'm saving up for a big v1.0 video..!
 - V9.6 erview-video: ehehehheh
 - V9.6 erview-video: errrr
 - V9 overview-video: ON THE WAY
 - V8 overview-video: https://youtu.be/8XcHyu8yTN0
 - V7 overview-video: https://youtu.be/dtfeVrcapfQ
 - V6 overview-video: https://youtu.be/DFUkmvU2N9c
-- V5 overview-video: https://youtu.be/WhmYe1YWUJA
-- V4 overview-video: https://youtu.be/Ou3-9_WI3Uw
-- V3 overview-video: https://youtu.be/-itUVTOB8as
-- V2 overview-video: https://youtu.be/qKjixcet44c
-- V1 overview-video: https://youtu.be/BU9F41Kc2F4
 
