@@ -1,4 +1,4 @@
- <img src="ArthursAudioBPs/Content/Splash/screenAll.png" width="100%" alt="Yo!" class="inline"/>
+ <img src="ArthursAudioBPs/Content/Splash/Frontpage.jpg" width="100%" alt="Yo!" class="inline"/>
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio & physics blueprints!!!
