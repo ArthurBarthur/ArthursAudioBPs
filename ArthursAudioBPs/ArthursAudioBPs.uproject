@@ -17,7 +17,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ArthursAudioVisualToolkit",
+			"Name": "MIDIDevice",
 			"Enabled": true
 		}
 	]
