@@ -4,8 +4,11 @@
 A free, downloadable project full of next-gen audio & physics blueprints!!!
 Made with Unreal Engine 4.26
 
-# Contribute
-You can directly support me(and by extension, continued development on this thing) by naming any price for any of my 'games' here: https://diggart.itch.io/ or through Patreon: https://www.patreon.com/arthurbarthur
+# Patreon
+You can directly give support through Patreon: https://www.patreon.com/arthurbarthur
+
+# itch.io store
+Can also give support and have fun by naming any price for any of my 'games' here: https://diggart.itch.io/ 
 
 # Zip downloads: 
 http://bit.ly/2Ow025P
