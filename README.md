@@ -2,7 +2,8 @@
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio & physics blueprints!!!
-Made with Unreal Engine 4.27 (5.0.3 version exists, with limited functionality. Only available through the zip downloads link for now)
+Made with Unreal Engine 4.27 
+(5.0.3 version exists, with limited functionality. Only available through the zip downloads link for now)
 
 # itch.io store
 Name your price for my 'games' here: https://diggart.itch.io/ 
