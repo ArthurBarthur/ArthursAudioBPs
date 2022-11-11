@@ -2,13 +2,10 @@
 
 # Arthurs Audio BPs
 A free, downloadable project full of next-gen audio & physics blueprints!!!
-Made with Unreal Engine 4.26
-
-# Patreon
-You can directly give support through Patreon: https://www.patreon.com/arthurbarthur
+Made with Unreal Engine 4.27 (5.0.3 version exists, with limited functionality. Only available through the zip downloads link for now)
 
 # itch.io store
-Can also give support and have fun by naming any price for any of my 'games' here: https://diggart.itch.io/ 
+Name your price for my 'games' here: https://diggart.itch.io/ 
 
 # Zip downloads: 
 http://bit.ly/2Ow025P
@@ -19,9 +16,6 @@ https://discord.gg/dKAshs7
 # Discussion/more info: 
 https://forums.unrealengine.com/development-discussion/audio/1618651
 
-# V1000
-Huge refactor this time! Finally made a plugin, Arthurs Audio-Visual Toolkit. All the nice stuff is in there now, separated from the rest of the project. Super portable when we just want the tools over on a different project, instead of including ALL the example levels and stuff in it! 
-The plugin should be on Unreal Marketplace soon, will update with link. For now this project works standalone no problem.
 # Feature Examples
 
 - Huge hub-level with gamemode, doors to all levels, lots of silly BPs and more.
@@ -57,6 +51,8 @@ The plugin should be on Unreal Marketplace soon, will update with link. For now 
 
 
 # Overview videos for each release:
+- V1001 5.0.3: Same as 1001 but in UE5. Some stuff does not work, but a lot does!
+- V1001: No idea what I did here, but it was cool
 - V1000...: Everything is finally set in stone! For now lol. This means videos is the logical next step LETS GOOOO :)
 - V9.9.9.7: in the middle of the last transformation, so just a teaser now https://youtu.be/dq5x6IP1YWE
 - V9.9.9 erview-video: we got this far together..now truly it is close, getting ready to set things in stone and make lots of videos!!!
